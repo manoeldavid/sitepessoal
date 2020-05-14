@@ -1,0 +1,24 @@
+/*Arquivo CSS da página pessoal*/
+
+body {
+    background-image: url("download.png");
+    filter background-image: ;:blur(15px);
+}
+.text {
+    font-family:"Roboto Mono";  
+}
+
+h1 {
+    color:"#FFFFFF";
+    align-content:"center";
+}
+h2 {
+    color:"#FFFFFF";
+    align-content:"center";
+}
+.links {
+    color:White;
+}
+p {
+    color: White;
+}
